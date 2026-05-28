@@ -1,0 +1,31 @@
+.DS_Store
+.vscode
+private/
+envVarExamples
+envVars.txt
+envVarsExtended.txt
+copilot.context
+
+# Python
+python/lib/
+python/__pycache__/
+python/*.pyc
+python/*.pyo
+python/*.egg-info/
+python/.pytest_cache/
+python/my_environment/
+python/venv/
+python/.venv/
+*.tar.gz
+*.zip
+
+# Java
+java/target/
+java/dependency-reduced-pom.xml
+java/*.jar
+java/.mvn/
+java/.idea/
+java/*.iml
+java/.classpath
+java/.project
+java/.settings/
