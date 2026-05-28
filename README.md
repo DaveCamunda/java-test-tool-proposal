@@ -54,6 +54,7 @@ Make sure to include the credentials file when you run it. For example:
 - If it persists, email us or contact your training manager
 
 **"Authentication error: ..."**
+
 Verify credentials in your credentials file.
 
 **"SSL error: ..."**
@@ -66,4 +67,5 @@ Verify credentials in your credentials file.
 - Check without a VPN and off of the company network to confirm
 
 **"Unexpected error: ..."**
+
 Email us or contact your training manager
